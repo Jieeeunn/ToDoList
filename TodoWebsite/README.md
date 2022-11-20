@@ -1,6 +1,6 @@
 # 오늘의 메모
 
-## 오늘의 할 일을 적어보는 공간
+## 오늘 하루 기억해야할 것을 적어보는 공간
 
 ![2](https://user-images.githubusercontent.com/116028857/202921022-d69f0562-3912-47db-8a3b-13b1f5b1e3ef.JPG)
 
